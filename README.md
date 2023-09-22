@@ -15,4 +15,9 @@
 
 # Certifications
 Course For Programming Basics With Python
+
 https://softuni.bg/certificates/details/182643/2ed01870
+
+Certificate for Manual Quality Assurance
+
+https://softuni.bg/certificates/details/177218/d19ff598
