@@ -11,3 +11,8 @@
 🐞 Experience Writing Test Plans, Creating Test Cases, Test Execution, And Reporting Bugs. Knowledge Of The Test Strategies, Understanding Of QA Methodologies.
 
 📈📚 Willing To Learn And Improve !
+
+
+# Certifications
+Course For Programming Basics With Python
+https://softuni.bg/certificates/details/182643/2ed01870
