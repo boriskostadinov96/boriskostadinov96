@@ -25,3 +25,11 @@ https://softuni.bg/certificates/details/182643/2ed01870
 Certificate for Manual Quality Assurance
 
 https://softuni.bg/certificates/details/177218/d19ff598
+
+<a href="your-python-URL">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
+  </a>
+
+<a href="your-kali-URL">
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
+  </a>
