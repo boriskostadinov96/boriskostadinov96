@@ -1,6 +1,8 @@
 # Hello, I am Boris Kostadinov 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
 
+**About me:**
+
 🐍 Python Enthusiast and Learner 
 
 🐧 Linux System Administrator / Scripting Experience Knowledge Of Bash
