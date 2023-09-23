@@ -1,5 +1,4 @@
 # Hello, I am Boris Kostadinov 👋
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
 
 **About me:**
 
@@ -14,6 +13,8 @@
 🐞 Experience Writing Test Plans, Creating Test Cases, Test Execution, And Reporting Bugs. Knowledge Of The Test Strategies, Understanding Of QA Methodologies.
 
 📈📚 Willing To Learn And Improve !
+
+Contact me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
 
 
 # Certifications
