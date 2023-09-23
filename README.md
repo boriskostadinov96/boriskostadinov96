@@ -14,7 +14,7 @@
 
 📈📚 Willing To Learn And Improve !
 
-Contact me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
+Contact me:   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
 
 
 # Certifications
