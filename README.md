@@ -14,7 +14,6 @@
 
 📈📚 Willing To Learn And Improve !
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
 
 <a href="your-python-URL">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
