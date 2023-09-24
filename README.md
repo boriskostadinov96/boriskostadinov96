@@ -17,7 +17,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
 
 
-# Certifications
+<h1> # Certifications </h1>
 Course For Programming Basics With Python
 
 https://softuni.bg/certificates/details/182643/2ed01870
