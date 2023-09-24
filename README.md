@@ -14,16 +14,6 @@
 
 📈📚 Willing To Learn And Improve !
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
-
-
-<h1> Certifications </h1>
-
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
-| <a href="https://softuni.bg/trainings/4258/qa-basics-july-2023"> Certificate for Manual Quality Assurance </a> | <a href="https://softuni.bg/certificates/details/177218/d19ff598"> Link</a> |
-
 <a href="your-python-URL">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   </a>
@@ -35,3 +25,12 @@
 <a href="your-kali-URL">
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
   </a>
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
+
+
+<h1> Certifications </h1>
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
+| <a href="https://softuni.bg/trainings/4258/qa-basics-july-2023"> Certificate for Manual Quality Assurance </a> | <a href="https://softuni.bg/certificates/details/177218/d19ff598"> Link</a> |
