@@ -21,7 +21,7 @@
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/2179/programming-basics-with-csharp-november-2018" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
+| <a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
 | <a href="https://softuni.bg/trainings/4258/qa-basics-july-2023"> Certificate for Manual Quality Assurance </a> | <a href="https://softuni.bg/certificates/details/177218/d19ff598"> Link</a> |
 
 <a href="your-python-URL">
