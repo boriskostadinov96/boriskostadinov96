@@ -18,13 +18,11 @@
 
 
 <h1> # Certifications </h1>
-Course For Programming Basics With Python
 
-https://softuni.bg/certificates/details/182643/2ed01870
-
-Certificate for Manual Quality Assurance
-
-https://softuni.bg/certificates/details/177218/d19ff598
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/2179/programming-basics-with-csharp-november-2018" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
+| <a href="https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019"> Certificate for Manual Quality Assurance </a> | <a https://softuni.bg/certificates/details/177218/d19ff598"> Link</a> |
 
 <a href="your-python-URL">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
