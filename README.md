@@ -13,6 +13,7 @@
 🐞 Experience Writing Test Plans, Creating Test Cases, Test Execution, And Reporting Bugs. Knowledge Of The Test Strategies, Understanding Of QA Methodologies.
 
 📈📚 Willing To Learn And Improve !
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
 
 <a href="your-python-URL">
