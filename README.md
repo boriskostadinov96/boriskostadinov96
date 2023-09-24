@@ -1,6 +1,6 @@
 # Hello, I am Boris Kostadinov 👋
 
-**About me:**
+**About me:** [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
 
 🐍 Python Enthusiast and Learner 
 
@@ -26,10 +26,8 @@
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
   </a>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
+
   
-
-
 <h1> Certifications </h1>
 
 | **Course**                                                            | **Link**                                                   |
