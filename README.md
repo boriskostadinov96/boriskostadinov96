@@ -26,9 +26,6 @@
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/">
-    <img src="(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)/>
-  </a>)
 
 
 <h1> Certifications </h1>
