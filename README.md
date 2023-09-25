@@ -1,4 +1,4 @@
-# Hello, I am Boris Kostadinov 👋
+# Hello, I'm Boris Kostadinov 👋
 
 **About me:**
 
