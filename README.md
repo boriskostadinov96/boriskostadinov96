@@ -4,7 +4,7 @@
 
 🐍 Python Enthusiast and Learner 
 
-🐧 Linux System Administrator / Scripting Experience Knowledge Of Bash
+🐧 Linux System Administrator / Scripting Experience with Python and Bash
 
 😎 Experience Working With Virtualization Systems
 
