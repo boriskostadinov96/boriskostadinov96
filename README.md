@@ -33,6 +33,6 @@
 
 | **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
+| <a href="https://softuni.bg/trainings/4222/programming-fundamentals-with-python-september-2023" > Programming Fundamentals with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
 | <a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
 | <a href="https://softuni.bg/trainings/4258/qa-basics-july-2023"> QA Basics </a> | <a href="https://softuni.bg/certificates/details/177218/d19ff598"> Link</a> |
