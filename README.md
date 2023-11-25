@@ -2,7 +2,7 @@
 
 **About me:**
 
-🐍 Python Enthusiast and Learner 
+🐍 Python Enthusiast
 
 🐧 Linux System Administrator / Scripting Experience with Python and Bash
 
