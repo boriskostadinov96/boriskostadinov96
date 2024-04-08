@@ -33,6 +33,7 @@
 
 | **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4370/python-advanced-january-2024" > Python OOP Programming </a>         | <a href=https://softuni.bg/certificates/details/203693/7803646f> Link</a> |
 | <a href="https://softuni.bg/trainings/4370/python-advanced-january-2024" > Python Advanced Programming </a>         | <a href=https://softuni.bg/certificates/details/203693/7803646f> Link</a> |
 | <a href="https://softuni.bg/trainings/4222/programming-fundamentals-with-python-september-2023" > Programming Fundamentals with Python </a>         | <a href="https://softuni.bg/certificates/details/195031/cfac6859"> Link</a> |
 | <a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" > Programming Basics with Python </a>         | <a href="https://softuni.bg/certificates/details/182643/2ed01870"> Link</a> |
