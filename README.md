@@ -6,12 +6,6 @@
 
 🐧 Linux System Administrator / Scripting Experience with Python and Bash
 
-😎 Experience Working With Virtualization Systems
-
-🔐🌐 I Am Currently Learning Cybersecurity And Ethical Hacking
-
-🐞 Experience Writing Test Plans, Creating Test Cases, Test Execution, And Reporting Bugs. Knowledge Of The Test Strategies, Understanding Of QA Methodologies.
-
 📈📚 Willing To Learn And Improve !
 
 
