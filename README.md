@@ -1,5 +1,6 @@
 # Hello, I'm Boris Kostadinov 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
+
 **About me:**
 
 🐍 Python Enthusiast
