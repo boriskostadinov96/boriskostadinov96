@@ -38,3 +38,10 @@
 | <a href="https://softuni.bg/trainings/4195/linux-system-administration-september-2023" > Linux System Administration </a>         | <a href="https://softuni.bg/certificates/details/191233/7be7c5fb"> Link</a> |
 | <a href="https://softuni.bg/trainings/4268/introduction-to-cyber-security-september-2023" > Introduction to Cyber Security </a>         | <a href="https://softuni.bg/certificates/details/186335/a4763227"> Link</a> |
 | <a href="https://softuni.bg/trainings/4258/qa-basics-july-2023"> QA Basics </a> | <a href="https://softuni.bg/certificates/details/177218/d19ff598"> Link</a> |
+
+## GitHub Stats
+
+<a href="https://github.com/kalintsenkov">
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kalintsenkov&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalintsenkov&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true&hide=smalltalk,shell,html,scss,css" />
+</a>
