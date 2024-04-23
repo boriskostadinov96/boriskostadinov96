@@ -41,7 +41,7 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/kalintsenkov">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kalintsenkov&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalintsenkov&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true&hide=smalltalk,shell,html,scss,css" />
+<a href="https://github.com/boriskostadinov96">
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boriskostadinov96&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boriskostadinov96&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true&hide=smalltalk,shell,html,scss,css" />
 </a>
