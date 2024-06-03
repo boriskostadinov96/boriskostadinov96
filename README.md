@@ -49,9 +49,6 @@
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
   </a>
 
-<a href="your-git-URL">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  </a>
 
   
 <h1> Certifications 🎓📜 </h1>
