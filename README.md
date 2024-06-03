@@ -7,13 +7,13 @@
 
 🐍 Excellent level of **Python**
 
-🧩💻 Excellent knowledge of OOP & SOLID, Data structures
+🧩💻 Excellent knowledge of **OOP & SOLID, Data structures**
 
-🐘🛢️ Proficient in PostgreSQL database management and ORM
+🐘🛢️ Proficient in **PostgreSQL** database management and **ORM**
 
-🐧 Deep Linux operating system skills: Debian, RedHat distributions/ Scripting Experience with Python and Bash
+🐧 Deep **Linux** operating system skills: Debian, RedHat distributions/ Scripting Experience with **Python and Bash**
 
-🐳 Experienced in Docker containerization
+🐳 Experienced in **Docker** containerization
 
 📈📚 Willing To Learn And Improve !
 # Tech Stack:
