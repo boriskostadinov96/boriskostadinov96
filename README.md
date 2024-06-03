@@ -5,7 +5,7 @@
 
 # Skills:
 
-🐍 Excellent level of Python
+🐍 Excellent level of **Python**
 
 🧩💻 Excellent knowledge of OOP & SOLID, Data structures
 
