@@ -2,11 +2,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-kostadinov-a7a6bb292/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/boriskostadinov96)
 
-**About me:**
+**Skills:**
 
-🐍 Python Enthusiast
+🐍 Excellent level of Python
 
-🐧 Linux System Administrator / Scripting Experience with Python and Bash
+🧩💻 Excellent knowledge of OOP & SOLID, Data structures
+
+🐘🛢️ Proficient in PostgreSQL database management and ORM
+
+🐧 Deep Linux operating system skills: Debian, RedHat distributions/ Scripting Experience with Python and Bash
+
+🐳 Experienced in Docker containerization
 
 📈📚 Willing To Learn And Improve !
 
