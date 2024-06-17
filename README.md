@@ -11,6 +11,8 @@
 
 🐘🛢️ Proficient in **PostgreSQL** database management and **ORM**
 
+🌐🕸️ Working knowledge of **Django** framework
+
 🐧 Deep **Linux** operating system skills: Debian, RedHat distributions/ Scripting Experience with **Python and Bash**
 
 🐳 Experienced in **Docker** containerization
