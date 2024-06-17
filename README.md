@@ -56,6 +56,7 @@
 
 | **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4536/postgresql-may-2024" > PostgreSQL </a>         | <a href=https://softuni.bg/certificates/details/217128/8501b910> Link</a> |
 | <a href="https://softuni.bg/trainings/4371/python-oop-february-2024" > Python OOP Programming </a>         | <a href=https://softuni.bg/certificates/details/211515/f2649dad> Link</a> |
 | <a href="https://softuni.bg/trainings/4370/python-advanced-january-2024" > Python Advanced Programming </a>         | <a href=https://softuni.bg/certificates/details/203693/7803646f> Link</a> |
 | <a href="https://softuni.bg/trainings/4222/programming-fundamentals-with-python-september-2023" > Programming Fundamentals with Python </a>         | <a href="https://softuni.bg/certificates/details/195031/cfac6859"> Link</a> |
