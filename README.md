@@ -5,7 +5,7 @@
 
 ---
 
-# Skills:
+### Skills:
 
 - 🐍 Excellent level of **Python**
 - 💻 Excellent knowledge of **OOP & SOLID, Data structures**
@@ -17,7 +17,7 @@
 
 ---
 
-# Tech Stack:
+### Tech Stack:
 <a href="your-python-URL">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   </a>
@@ -80,7 +80,7 @@
 
 ---
 
-<h1> Certifications 🎓📜 </h1>
+### Certifications 🎓📜
 
 | **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
