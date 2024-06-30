@@ -5,19 +5,14 @@
 
 # Skills:
 
-- 🐍 Excellent level of **Python** 
+- 🐍 Excellent level of **Python**
+- 💻 Excellent knowledge of **OOP & SOLID, Data structures**
+- 🐘 Proficient in **PostgreSQL** database management and **ORM**
+- 🌐 Working knowledge of **Django** framework
+- 🐧 Deep **Linux** operating system skills: Debian, RedHat distributions/ Scripting Experience with **Python and Bash**
+- 🐳 Experienced in **Docker** containerization
+- 📚 Willing To Learn And Improve !
 
-🧩💻 Excellent knowledge of **OOP & SOLID, Data structures**
-
-🐘🛢️ Proficient in **PostgreSQL** database management and **ORM**
-
-🌐🕸️ Working knowledge of **Django** framework
-
-🐧 Deep **Linux** operating system skills: Debian, RedHat distributions/ Scripting Experience with **Python and Bash**
-
-🐳 Experienced in **Docker** containerization
-
-📈📚 Willing To Learn And Improve !
 # Tech Stack:
 <a href="your-python-URL">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
