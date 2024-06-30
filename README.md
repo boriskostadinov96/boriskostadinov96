@@ -93,6 +93,8 @@
 | <a href="https://softuni.bg/trainings/4268/introduction-to-cyber-security-september-2023" > Introduction to Cyber Security </a>         | <a href="https://softuni.bg/certificates/details/186335/a4763227"> Link</a> |
 | <a href="https://softuni.bg/trainings/4258/qa-basics-july-2023"> QA Basics </a> | <a href="https://softuni.bg/certificates/details/177218/d19ff598"> Link</a> |
 
+---
+
 ## GitHub Stats
 
 <div>
