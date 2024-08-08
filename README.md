@@ -1,9 +1,9 @@
 # Hello, I'm Boris Kostadinov 👋
 ### Skills:
-- 🐍 Excellent level of **Python**
+- 🐍 **Programming Languages:** Python, JavaScript, SQL
 - 💻 Excellent knowledge of **OOP & SOLID, Data structures**
 - 🐘 Proficient in **PostgreSQL** database management and **ORM**
-- 🌐 Working knowledge of **Django** framework
+- 🌐 **Frameworks & Libraries:** Django, SQLAlchemy
 - 🐧 Deep **Linux** operating system skills: Debian, RedHat distributions/ Scripting Experience with **Python and Bash**
 - 🐳 Experienced in **Docker** containerization
 - 📚 Willing To Learn And Improve !
