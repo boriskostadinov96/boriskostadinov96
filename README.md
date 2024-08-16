@@ -1,13 +1,13 @@
 # Hello, I'm Boris Kostadinov 👋
 ### Skills:
 - **Programming Languages:** Python, JavaScript, SQL
-- **Frameworks & Libraries:** Django, SQLAlchemy
--  **Databases:** PostgreSQL, SQLite, NoSQL
+- **Frameworks & Libraries:** Django, SQLAlchemy ORM, Mongoose ODM
+-  **Databases:** PostgreSQL, SQLite, MongoDB
 -  **Software Development:** OOP, SOLID principles, Data Structures
 -  **Web Technologies:** HTML & CSS
 -  **Version Control:** Git, GitHub
 - **Operating Systems:** Linux (Debian, RedHat)
-- **Containerization:** Docker
+- **CI/CD:** Docker
 - **Networking:** Knowledge of protocols, principles and practices
 - Willing To Learn And Improve !
 
