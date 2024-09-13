@@ -6,8 +6,8 @@
 -  **Software Development:** OOP, SOLID principles, Data Structures
 -  **Web Technologies:** HTML & CSS
 -  **Version Control:** Git, GitHub
-- **Operating Systems:** Linux (Debian, RedHat)
-- **CI/CD:** Docker
+- **Operating Systems:** Windows, Linux (Debian, RedHat)
+- **CI/CD:** AWS, Kubernetes, Docker
 - **Networking:** Knowledge of protocols, principles and practices
 - Willing To Learn And Improve !
 
