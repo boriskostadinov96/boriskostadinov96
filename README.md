@@ -50,6 +50,10 @@ building efficient and scalable solutions. Committed to continuous learning and 
   <a href="your-html-URL">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
   </a>
+
+   <a href="your-aws-URL">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  </a>
   
   <a href="your-docker-URL">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
