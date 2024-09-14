@@ -1,15 +1,6 @@
-# Hello, I'm Boris Kostadinov 👋
-### Skills:
-- **Programming Languages:** Python, JavaScript, SQL
-- **Frameworks & Libraries:** Django, SQLAlchemy ORM, Mongoose ODM
--  **Databases:** PostgreSQL, SQLite, MongoDB
--  **Software Development:** OOP, SOLID principles, Data Structures
--  **Web Technologies:** HTML & CSS
--  **Version Control:** Git, GitHub
-- **Operating Systems:** Windows, Linux (Debian, RedHat)
-- **CI/CD:** AWS, Kubernetes, Docker
-- **Networking:** Knowledge of protocols, principles and practices
-- Willing To Learn And Improve !
+Passionate software engineer with strong expertise in Python, web technologies, and
+backend frameworks. Skilled in problem-solving and analytical thinking, with a focus on
+building efficient and scalable solutions. Committed to continuous learning and innovation.
 
 ---
 
