@@ -56,7 +56,7 @@ building efficient and scalable solutions. Committed to continuous learning and 
   </a>
 
   <a href="your-kubernetes-URL">
-    <img src="(https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
   </a>
   
   <a href="your-docker-URL">
