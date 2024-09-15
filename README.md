@@ -1,17 +1,15 @@
 ```javascript
-const boris: Software engineer = {
-    about: Passionate software engineer with strong expertise in Python, web technologies, and
-backend frameworks. Skilled in problem-solving and analytical thinking, with a focus on
-building efficient and scalable solutions. Committed to continuous learning and innovation.,
-    code: ["Python", "Javascript", "SQL"],
+const boris = {
+    about: "Passionate software engineer with strong expertise in Python, web technologies, and backend frameworks. Skilled in problem-solving and analytical thinking, with a focus on building efficient and scalable solutions. Committed to continuous learning and innovation.",
+    code: ["Python", "JavaScript", "SQL"],
     technologies: {
-        frameworks & libraries: ["Django", "SQLAlchemy ORM", "Mongoose ODM"],
+        "frameworks & libraries": ["Django", "SQLAlchemy ORM", "Mongoose ODM"],
         web: ["HTML", "CSS"],
         devOps: ["AWS", "Kubernetes", "Docker"],
         databases: ["PostgreSQL", "SQLite", "MongoDB"],
-        version control: ["Git", "GitHub"],
+        versionControl: ["Git", "GitHub"],
         systems: ["Windows", "Linux"]
-    },
+    }
 };
 ```
 
