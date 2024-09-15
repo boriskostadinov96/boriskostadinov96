@@ -5,7 +5,7 @@ backend frameworks. Skilled in problem-solving and analytical thinking, with a f
 building efficient and scalable solutions. Committed to continuous learning and innovation.",
 
     code: ["Python", "JavaScript", "SQL"],
-  technologies: {
+    technologies: {
     frameworksAndLibraries: ["Django", "SQLAlchemy ORM", "Mongoose ODM"],
     web: ["HTML", "CSS"],
     devOps: ["AWS", "Kubernetes", "Docker"],
