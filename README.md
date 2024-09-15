@@ -1,6 +1,6 @@
 ```javaScript
 javascript
-const boris: Software engineer = {
+const boris: softwareEngineer = {
     about: "Passionate software engineer with strong expertise in Python, web technologies, and
 backend frameworks. Skilled in problem-solving and analytical thinking, with a focus on
 building efficient and scalable solutions. Committed to continuous learning and innovation.",
