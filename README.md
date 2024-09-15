@@ -4,15 +4,15 @@ const boris: softwareEngineer = {
 backend frameworks. Skilled in problem-solving and analytical thinking, with a focus on
 building efficient and scalable solutions. Committed to continuous learning and innovation.",
 
-    code: ["Python", "Javascript", "SQL"],
-    technologies: {
-        frameworks & libraries: ["Django", "SQLAlchemy ORM", "Mongoose ODM"],
-        web: ["HTML", "CSS"],
-        devOps: ["AWS", "Kubernetes", "Docker"],
-        databases: ["PostgreSQL", "SQLite", "MongoDB"],
-        version control: ["Git", "GitHub"],
-        systems: ["Windows", "Linux"]
-    },
+    code: ["Python", "JavaScript", "SQL"],
+  technologies: {
+    frameworksAndLibraries: ["Django", "SQLAlchemy ORM", "Mongoose ODM"],
+    web: ["HTML", "CSS"],
+    devOps: ["AWS", "Kubernetes", "Docker"],
+    databases: ["PostgreSQL", "SQLite", "MongoDB"],
+    versionControl: ["Git", "GitHub"],
+    systems: ["Windows", "Linux"],
+  },
 };
 ```
 
