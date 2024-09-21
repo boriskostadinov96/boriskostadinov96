@@ -62,23 +62,23 @@ building efficient and scalable solutions. Committed to continuous learning and 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
   </a>
   
-  <a href="your-html-URL">
+<a href="your-html-URL">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
   </a>
 
-   <a href="your-aws-URL">
+<a href="your-aws-URL">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
   </a>
 
-  <a href="your-kubernetes-URL">
+<a href="your-kubernetes-URL">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
   </a>
   
-  <a href="your-docker-URL">
+<a href="your-docker-URL">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
   </a>
   
-  <a href="your-linux-URL">
+<a href="your-linux-URL">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
   </a>
 
