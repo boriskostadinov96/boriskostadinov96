@@ -9,7 +9,7 @@ building efficient and scalable solutions. Committed to continuous learning and 
         frameworksAndLibraries: ["Django", "SQLAlchemy ORM"],
         web: ["HTML", "CSS", "DOM", "AJAX"],
         devOps: ["AWS", "Kubernetes", "Docker"],
-        databases: ["PostgreSQL", "SQLite", "MongoDB"],
+        databases: ["PostgreSQL", "SQLite", "MongoDB", "DynamoDB"],
         versionControl: ["Git", "GitHub"],
         systems: ["Windows", "Linux"],
   },
