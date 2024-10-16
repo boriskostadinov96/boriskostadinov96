@@ -46,6 +46,10 @@ building efficient and scalable solutions. Committed to continuous learning and 
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb Badge"/>
   </a>
 
+<a href="your-dynamodb-URL">
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDb Badge"/>
+  </a>
+
 <a href="your-django-URL">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   </a>
