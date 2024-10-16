@@ -8,7 +8,7 @@ building efficient and scalable solutions. Committed to continuous learning and 
     technologies: {
         frameworksAndLibraries: ["Django", "SQLAlchemy ORM", "NumPy", "Pandas"],
         web: ["HTML", "CSS", "DOM", "AJAX"],
-        devOps: ["AWS", "Kubernetes", "Docker"],
+        devOps: ["AWS", "Kubernetes", "Docker", "Terraform"],
         databases: ["PostgreSQL", "SQLite", "MongoDB", "DynamoDB"],
         versionControl: ["Git", "GitHub"],
         systems: ["Windows", "Linux"],
