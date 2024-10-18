@@ -85,6 +85,10 @@ building efficient and scalable solutions. Committed to continuous learning and 
 <a href="your-terraform-URL">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
   </a>
+
+<a href="your-jenkins-URL">
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
+  </a>
   
 <a href="your-linux-URL">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
