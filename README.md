@@ -8,7 +8,7 @@ const boris: softwareEngineer = {
     web: ["HTML", "CSS", "DOM", "AJAX"],
     devOps: ["AWS", "Kubernetes", "Docker", "Terraform", "Jenkins"],
     databases: ["PostgreSQL", "SQLite", "MongoDB", "DynamoDB"],
-    methodologies: ["Agile", "Scrum", "Kanban"]
+    methodologies: ["Agile", "Scrum", "Kanban"],
     versionControl: ["Git", "GitHub"],
     systems: ["Windows", "Linux"],
   },
