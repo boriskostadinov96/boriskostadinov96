@@ -10,6 +10,7 @@ building efficient and scalable solutions. Committed to continuous learning and 
         web: ["HTML", "CSS", "DOM", "AJAX"],
         devOps: ["AWS", "Kubernetes", "Docker", "Terraform", "Jenkins"],
         databases: ["PostgreSQL", "SQLite", "MongoDB", "DynamoDB"],
+        Methodologies: "Agile", "Scrum", "Kanban"
         versionControl: ["Git", "GitHub"],
         systems: ["Windows", "Linux"],
   },
