@@ -1,20 +1,19 @@
 ```javaScript
 const boris: softwareEngineer = {
-    about: "Passionate software engineer with strong expertise in Python, web technologies, and
-backend frameworks. Skilled in problem-solving and analytical thinking, with a focus on
-building efficient and scalable solutions. Committed to continuous learning and innovation.",
+  about: "Passionate software engineer with strong expertise in Python, web technologies, and backend frameworks. Skilled in problem-solving and analytical thinking, with a focus on building efficient and scalable solutions. Committed to continuous learning and innovation.",
 
-    code: ["Python", "JavaScript", "SQL"],
-    technologies: {
-        frameworksAndLibraries: ["Django", "SQLAlchemy ORM", "NumPy", "Pandas", "Tkinter"],
-        web: ["HTML", "CSS", "DOM", "AJAX"],
-        devOps: ["AWS", "Kubernetes", "Docker", "Terraform", "Jenkins"],
-        databases: ["PostgreSQL", "SQLite", "MongoDB", "DynamoDB"],
-        Methodologies: "Agile", "Scrum", "Kanban"
-        versionControl: ["Git", "GitHub"],
-        systems: ["Windows", "Linux"],
+  code: ["Python", "JavaScript", "SQL"],
+  technologies: {
+    frameworksAndLibraries: ["Django", "SQLAlchemy ORM", "NumPy", "Pandas", "Tkinter"],
+    web: ["HTML", "CSS", "DOM", "AJAX"],
+    devOps: ["AWS", "Kubernetes", "Docker", "Terraform", "Jenkins"],
+    databases: ["PostgreSQL", "SQLite", "MongoDB", "DynamoDB"],
+    methodologies: ["Agile", "Scrum", "Kanban"]
+    versionControl: ["Git", "GitHub"],
+    systems: ["Windows", "Linux"],
   },
 };
+
 ```
 
 
