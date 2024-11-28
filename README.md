@@ -13,6 +13,7 @@ building efficient and scalable solutions. Committed to continuous learning and 
         methodologies: ["Agile", "Scrum", "Kanban"],
         versionControl: ["Git", "GitHub"],
         systems: ["Windows", "Linux"],
+        hobbies: ["taekwondo", "swimming", "books", "chess"],
   },
 };  
 
