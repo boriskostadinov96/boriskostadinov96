@@ -3,4 +3,4 @@
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boriskostadinov96&layout=compact&bg_color=09131B&hide_border=true" />
 </div>
 
-[![Boris's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/boriskostadinov96/github-readme-stats)
+[![Boris's stats](https://github-readme-stats.vercel.app/api/boriskostadinov96?username=boriskostadinov96)](https://github.com/boriskostadinov96/github-readme-stats)
