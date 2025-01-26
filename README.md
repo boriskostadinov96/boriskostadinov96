@@ -3,4 +3,4 @@
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boriskostadinov96&layout=compact&title_color=9A0000&icon_color=0579C3&bg_color=ffffff00&text_color=417E87&border_color=0c1a25"hide_border=true" />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-compact.layoutl.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
